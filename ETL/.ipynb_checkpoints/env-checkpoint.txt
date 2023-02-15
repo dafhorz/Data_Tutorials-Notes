@@ -1,0 +1,6 @@
+# .env file
+USERNAME=root
+ADMIN_USERNAME=admin@${USERNAME}
+PASSWORD=MIDdSQLe#25
+NO_USERS=2
+IS_DEV=False
